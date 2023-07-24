@@ -6,7 +6,7 @@ https://github.com/elsasjogren/dogs_life_p1
 https://deliveringtechnology2018.atlassian.net/wiki/spaces/CC21S/pages/2492661903/QL-1+Accessing+SQL+DB+Interface
 
 
-activity QL6 and QLC
+## activity QL6 and QLC
 SQL Commands 
 
 select * from teams as t
